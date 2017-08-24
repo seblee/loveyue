@@ -1,3 +1,4 @@
 # loveyue
 loveyue系列1到8的源码
-这个网页里有一点点解释，只针对没有网站基础的人，什么都不会的，可以看看这个：<a href='http://loveyue1.sinaapp.com/love/index.html' target="_blank">http://loveyue1.sinaapp.com/love/index.html</a>
+代碼 fork 自：<a href='https://github.com/wuxia2001/loveyue' target="_blank">https://github.com/wuxia2001/loveyue</a>
+# 七夕節快到了 留著備用呢
